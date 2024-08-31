@@ -530,3 +530,13 @@
     border-color: transparent;
     background-color: transparent;
   }
+
+  .find a {
+    font-weight: bold;
+    font-size: 12px;
+    color: #ffffff;
+  }
+
+  .find a:hover {
+    color: lightgray;
+  }
