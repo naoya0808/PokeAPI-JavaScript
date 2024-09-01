@@ -147,8 +147,10 @@
   }
   
   .search-wrap > input {
-    width: 60%;
+    width: 90%;
     border: none;
+    height: 75%;
+    border-radius: 16px;
   }
   
   .sort-wrapper {
